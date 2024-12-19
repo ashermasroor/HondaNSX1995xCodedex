@@ -11,8 +11,7 @@ Website Screenshots
 
 How To Use
 -
-Web Hosted URL:
-
+Live Demo: https://ashermasroor.github.io/
 
 To use locally:
 - Clone the repository:
