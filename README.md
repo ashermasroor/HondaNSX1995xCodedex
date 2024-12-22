@@ -15,7 +15,7 @@ Live Demo: https://ashermasroor.github.io/
 
 To use locally:
 - Clone the repository:
-git clone https://github.com/ashermasroor/ashermasroor.github.io.git
+'git clone https://github.com/ashermasroor/ashermasroor.github.io.git'
 - Enter the repository Folder
 - open 'index.html' in google chrome.
 
