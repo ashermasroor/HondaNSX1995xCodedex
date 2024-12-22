@@ -1,6 +1,6 @@
 Submission for Codédex 2024 Mini Holiday Hackathon
 -
-This is my attempt at a 90's themed personal blog website about my dream car, The 1995 Honda NXS-T
+This is my attempt at a 90's retro themed personal blog website about my dream car, The 1995 Honda NXS-T
 This was my first time programming a website from scratch which caused me to struggle with time however, I was still able to finish most of what I had planned and learnt alot.
 
 Website Screenshots
