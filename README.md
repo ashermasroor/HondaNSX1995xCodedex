@@ -11,7 +11,7 @@ Website Screenshots
 
 How To Use
 -
-Live Demo: https://ashermasroor.github.io/
+Live Demo: https://ashermasroor.github.io/HondaNSX1995xCodedex/
 
 To use locally:
 - Clone the repository:
